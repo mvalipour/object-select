@@ -3,6 +3,12 @@
 
 ## Usage
 
+```
+$ npm install object.select
+```
+
+Then:
+
 ```js
 import select from 'object.select';
 const ref = select(user, 'id', 'name');
