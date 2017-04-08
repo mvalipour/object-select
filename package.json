@@ -1,5 +1,5 @@
 {
-  "name": "object-select",
+  "name": "object.select",
   "version": "0.0.1",
   "description": "Helper method to pick object properties into a new object.",
   "main": "index.js",
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/mvalipour/object-select.git"
   },
   "engines" : {
-    "node" : ">=6.4.0" 
+    "node" : ">=6.4.0"
   },
   "keywords": [
     "javascript",

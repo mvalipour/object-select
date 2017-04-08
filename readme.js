@@ -4,14 +4,14 @@
 ## Usage
 
 ```js
-import select from 'object-select';
+import select from 'object.select';
 const ref = select(user, 'id', 'name');
 ```
 
 If you wish to have this as a static function on `Object` (hypothetical polyfill):
 
 ```js
-require('object-select/polyfill');
+require('object.select/polyfill');
 const ref = Object.select(user, 'id', 'name');
 ```
 
