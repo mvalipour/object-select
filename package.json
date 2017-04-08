@@ -1,0 +1,28 @@
+{
+  "name": "object-select",
+  "version": "0.0.1",
+  "description": "Helper method to pick object properties into a new object.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mvalipour/object-select.git"
+  },
+  "engines" : {
+    "node" : ">=6.4.0" 
+  },
+  "keywords": [
+    "javascript",
+    "object",
+    "select",
+    "helper"
+  ],
+  "author": "Mo Valipour <valipour@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mvalipour/object-select/issues"
+  },
+  "homepage": "https://github.com/mvalipour/object-select#readme"
+}
